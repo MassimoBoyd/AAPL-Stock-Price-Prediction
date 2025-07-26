@@ -1,6 +1,6 @@
 # AAPL-Stock-Price-Prediction
 Time series prediction of AAPL stock prices using moving averages and linear regression.
-# AAPL Stock Price Prediction 📈
+
 
 This project builds a regression model to predict Apple (AAPL) stock prices using historical time series data. The model leverages **moving averages** and **linear regression** techniques, alongside data visualization and residual analysis, to forecast prices with minimal error.
 
